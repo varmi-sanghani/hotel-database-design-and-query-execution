@@ -1,10 +1,10 @@
-# 🏨 Hotel Database System – Express Suites
+# Hotel Database System – Express Suites
 
 This project is a complete relational database system for the “Express Suites” hotel, designed using PostgreSQL. It models core hotel operations including guest reservations, room services, billing, and availability. 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `docs/`: Project documentation and ER diagram
 - `scripts/`: SQL scripts for database schema (DDL) and data population (DML)
@@ -12,7 +12,7 @@ This project is a complete relational database system for the “Express Suites�
 
 ---
 
-## 🗃️ Database Overview
+## Database Overview
 
 - **Entities**: Guest, Reservation, Room, Billing Records, Room Service
 - **Views**: Reservation details, Room availability, Guest reservations, Total billed amount
@@ -22,7 +22,7 @@ This project is a complete relational database system for the “Express Suites�
 
 ---
 
-## 📊 Features
+## Features
 
 - Tracks guest check-ins, check-outs, room bookings, and billing.
 - Maintains service usage and cost.
@@ -31,7 +31,7 @@ This project is a complete relational database system for the “Express Suites�
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
